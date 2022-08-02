@@ -1,4 +1,5 @@
 # Bem vindo(a) ao meu perfil
+![_PvOhvEo_400x400](https://user-images.githubusercontent.com/108290865/182426913-4a86000b-f3c4-4abf-899b-9aaae01479a4.jpg)
 
 Olá eu sou o Cleiton Ferreira
 
@@ -17,7 +18,7 @@ Olá eu sou o Cleiton Ferreira
 - javascript
 
 ## Meus contatos
-t
+
 - Twitter - @Sirkleyton (https://twitter.com/SirKleyton)
 - Github @Sirkleyton
 - Email cleyton_ferr@hotmail.com
